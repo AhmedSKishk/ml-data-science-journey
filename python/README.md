@@ -23,3 +23,9 @@ A folder containing Python problems.
 
 ---
 
+## `python-3.ipynb`
+- Lists: creation, indexing, slicing, modifying elements, adding/removing items (`append()`, `insert()`, `pop()`, `clear()`), sorting, and combining lists
+- For loops: iterating with `range()`, `break`, `continue`, `for-else`, and nested loops
+- Combined exercise: looping through a string with nested if conditions to classify each character
+
+**Tools used:** Python (Jupyter Notebook)
