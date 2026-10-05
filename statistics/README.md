@@ -16,3 +16,5 @@ Each concept is solved and cross-validated using three different tools — `nump
 Realistic scenarios including exam score analysis, weather data, dice-roll frequency distributions, and error-margin estimation.
 
 **Tools:** Python · Jupyter Notebook · NumPy · pandas · statistics
+
+

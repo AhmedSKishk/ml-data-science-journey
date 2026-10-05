@@ -1,7 +1,5 @@
 # Python
 
-Core Python fundamentals and problem-solving exercises, covering data types, control flow, and built-in data structures — with an emphasis on writing clean, idiomatic code.
-
 ## `python-1.ipynb`
 
 **Topics covered:**
