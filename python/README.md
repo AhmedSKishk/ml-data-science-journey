@@ -1,5 +1,7 @@
 # Python
 
+Python exercises covering data types, control flow, and built-in data structures.
+
 ## `python-1.ipynb`
 
 **Topics covered:**
@@ -30,5 +32,19 @@
 - Lists — creation, indexing, slicing, modifying elements, adding/removing items (`append()`, `insert()`, `pop()`, `clear()`), sorting, and combining lists
 - For loops — iterating with `range()`, `break`, `continue`, `for-else`, and nested loops
 - Combined exercise — looping through a string with nested `if` conditions to classify each character
+
+**Tools:** Python · Jupyter Notebook
+
+---
+
+## `python-4.ipynb`
+
+**Topics covered:**
+- While loops with counters (counting up, counting down, custom steps)
+- Iterating over a string by index using `len()`
+- Loop control with `break` and `continue`
+- `while-else` to check whether a character exists in a string (case-insensitive)
+- Number series: first 10 numbers (forward and reversed), even and odd numbers, and a descending series with step 7
+- Conditional printing inside loops (skipping specific values)
 
 **Tools:** Python · Jupyter Notebook
