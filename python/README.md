@@ -2,7 +2,7 @@
 
 Python exercises covering data types, control flow, built-in data structures, and functions.
 
-## `python-1.ipynb`
+## `Python_01_Arithmetic_Strings_and_Type_Checking.ipynb`
 
 **Topics covered:**
 - Arithmetic operations with user input via `input()`
@@ -14,7 +14,7 @@ Python exercises covering data types, control flow, built-in data structures, an
 
 ---
 
-## `python-2.ipynb`
+## `Python_02_String_Methods_Input_and_If_Conditions.ipynb`
 
 **Topics covered:**
 - String formatting using f-strings
@@ -26,7 +26,7 @@ Python exercises covering data types, control flow, built-in data structures, an
 
 ---
 
-## `python-3.ipynb`
+## `Python_03_Lists_and_For_Loops.ipynb`
 
 **Topics covered:**
 - Lists — creation, indexing, slicing, modifying elements, adding/removing items (`append()`, `insert()`, `pop()`, `clear()`), sorting, and combining lists
@@ -37,7 +37,7 @@ Python exercises covering data types, control flow, built-in data structures, an
 
 ---
 
-## `python-4.ipynb`
+## `Python_04_While_Loops_and_Character_Checker.ipynb`
 
 **Topics covered:**
 - While loops with counters (counting up, counting down, custom steps)
@@ -52,7 +52,7 @@ Python exercises covering data types, control flow, built-in data structures, an
 
 ---
 
-## `python-5.ipynb`
+## `Python_05_Functions.ipynb`
 
 **Topics covered:**
 - Functions — defining, calling, docstrings, and functions with no parameters
