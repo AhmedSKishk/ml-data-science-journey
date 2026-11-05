@@ -1,6 +1,6 @@
 # Python
 
-Python exercises covering data types, control flow, and built-in data structures.
+Python exercises covering data types, control flow, built-in data structures, and functions.
 
 ## `python-1.ipynb`
 
@@ -47,5 +47,21 @@ Python exercises covering data types, control flow, and built-in data structures
 - Number series: first 10 numbers (forward and reversed), even and odd numbers, and a descending series with step 7
 - Conditional printing inside loops (skipping specific values)
 - Mini program: classifies every character of an email (alphabetic lowercase/uppercase, number, special character) using nested `if`, with a `for` loop inside a `while True` loop that repeats until the user answers `N`
+
+**Tools:** Python · Jupyter Notebook
+
+---
+
+## `python-5.ipynb`
+
+**Topics covered:**
+- Functions — defining, calling, docstrings, and functions with no parameters
+- Parameters — positional and keyword arguments, default values, type hints, and `*args` (e.g. average of any number of values)
+- `return` vs. `print`, chaining string methods on a returned value (e.g. `.upper()`), and variable scope with the `global` keyword
+- Functions combined with user input via `input()` (e.g. adding two numbers, building a full name)
+- Math exercises: power, average, circle area, sphere volume, °C to °F, and sum of numbers in a range (all, odd, even)
+- String exercises: full name formatter, reversing words in a sentence, counting upper/lower case letters, and palindrome checker
+- List exercises: printing items, reversing (slicing and loop versions), capitalizing items, product of all numbers, and finding two adjacent `3`s
+- Logic exercises: lesser/greater of two numbers (even/odd) and season from month name
 
 **Tools:** Python · Jupyter Notebook
